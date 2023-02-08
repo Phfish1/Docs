@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d9e876c25548920e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c15b924ee379824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eacdfaf5dd005ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Color/Usefull Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d8a0e3a4ab4ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps/Usefull links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d09043a40f5ee13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cbc464ee5220e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9173d184a8aabec9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa15d24351b3a31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "818a7675cfbf82c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35221b296ac3d147",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8d3ab6e1e200cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310170e2378baa38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apps/Usefull links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4c4ff0cd8773e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apps/Usefull links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ded86fc05d060f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fde40ee96348251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apps/Usefull links.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0d8a0e3a4ab4ecd",
+  "lastOpenFiles": [
+    "Color/Usefull Links.md",
+    "Color/Color theory (Itten).md",
+    "Color/Color wheel.md",
+    "AIDA.md",
+    "Photoshop/Tips.md",
+    "Photoshop/Methods.md",
+    "Photoshop/Hotkeys.md",
+    "xImages/YingYang.png",
+    "xImages/tetrad.jpg",
+    "xImages/Temperatur.jpg"
+  ]
+}

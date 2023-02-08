@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "baseFontSize": 16,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false
+}

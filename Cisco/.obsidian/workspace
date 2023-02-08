@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "04900458d81a675b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d9ebf92adbab5e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commands/DNS.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8a09ed4b045297f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16fd029128d51b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1636076509e28ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dcf16bfcba36c4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f37eb5989852e84a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc70f01623aeedf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a386576e07e7f5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356c2a1581927822",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commands/DNS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "167aa359d3057b97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Commands/DNS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9fc22eca386a1f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4394252f5afce670",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Commands/DNS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d9ebf92adbab5e3",
+  "lastOpenFiles": [
+    "Commands/File System IOS + FTP.md",
+    "Commands/SHOW Commands.md",
+    "Commands/FTP & TFTP.md",
+    "Commands/DNS.md",
+    "commands/FTP & TFTP.md",
+    "Commands/SNMP.md",
+    "ximg/F-FTP-ex.jpg",
+    "Commands/FTP.md",
+    "commands/FTP.md",
+    "Commands/SSH.md"
+  ]
+}

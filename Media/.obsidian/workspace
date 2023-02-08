@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d9e876c25548920e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac2d0d36c91ee0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Color/Color theory (Itten).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d09043a40f5ee13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cbc464ee5220e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9173d184a8aabec9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aa15d24351b3a31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "818a7675cfbf82c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35221b296ac3d147",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8d3ab6e1e200cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310170e2378baa38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Color/Color theory (Itten).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e4c4ff0cd8773e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Color/Color theory (Itten).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ded86fc05d060f6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fde40ee96348251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Color/Color theory (Itten).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aac2d0d36c91ee0f",
+  "lastOpenFiles": [
+    "xImages/YingYang.png",
+    "xImages/tetrad.jpg",
+    "xImages/Temperatur.jpg",
+    "xImages/pic_ryb_itten.jpg",
+    "xImages/kvalitetkon.jpg",
+    "xImages/contrast-wheel.png",
+    "xImages/5colors.jpg",
+    "Color/Color theory (Itten).md",
+    "Color/Color wheel.md",
+    "xImages/triad.jpg"
+  ]
+}

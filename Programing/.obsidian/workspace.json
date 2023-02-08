@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "1ee63dca26fb6ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa81a0cd8be5174b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6bbb659feb0ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/LearnProgramming/Properties and Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9090b38c1cd098b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GIT Basic Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d5e5fcab406c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "68857437cbd5050d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfe7ce3a0ece5b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "376de59b59910ab1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52f46207990f91b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3387eb0e061447b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5442b7f7ed7aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa04af6cfb1b973",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub/GIT Basic Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bcd3ee6643166ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub/GIT Basic Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c98b9c313da94b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d43a9d9191aefbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub/GIT Basic Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9090b38c1cd098b",
+  "lastOpenFiles": [
+    "GitHub/What is Git.md",
+    "Courses/LearnProgramming/Properties and Methods.md",
+    "Courses/LearnProgramming/Functions.md",
+    "Courses/LearnProgramming/Data Types/Strings.md",
+    "Courses/LearnProgramming/Variables.md",
+    "Courses/LearnProgramming/Print and Console.log.md",
+    "Untitled.md",
+    "Markup & Data-Structuring Language/YAML.md",
+    "Markup & Data-Structuring Language/JSON.md",
+    "Markup & Data-Structuring Language/XML/Info.md"
+  ]
+}

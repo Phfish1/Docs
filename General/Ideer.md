@@ -1,0 +1,3 @@
+- [ ] Port-security GUI
+	- Port security som bare gir tilgang til de som logger inn med brukernavn og passord. Som f.eks orginasjons passord fra **PEAP MS-CHAP**
+	- Åpner en GUI som når du logger inn på Wi-Fi

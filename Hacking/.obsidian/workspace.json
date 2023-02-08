@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "4d5e8c645c7b6ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c78c5424fb8ff62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c28994cebb4aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking Documentation/bWAPP ) SQL injections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d270e701b7f6313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Websites.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde4d72923ede8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf27c92b1b1bd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d334ad0303f9a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f9298ade0580b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80340e5cd0cd2ea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b5f2b56f5f7ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d29e53d273b9003",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaad9c72d8d4f517",
+    "type": "split",
+    "children": [
+      {
+        "id": "f380f00c7e494b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2efbb9b556f5cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cool methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3651b8cc6b7d9174",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cool methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9281f3c26470c720",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0df9586eb843dcec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cool methods.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fcf27c92b1b1bd30",
+  "lastOpenFiles": [
+    "Hacking Documentation/Protecting against BadUSB.md",
+    "TO DO.md",
+    "Videos.md",
+    "New Websites.md",
+    "Hacking Documentation/Decompiling .exe files made in python.md",
+    "Hacking Documentation/bWAPP ) SQL injections.md",
+    "Hacking Documentation/Demo.Testfire.net.md",
+    "Hacking Documentation/Bad Magic number.md",
+    "Packet Manipulation/Tools.md",
+    "TheFatRat.md"
+  ]
+}
