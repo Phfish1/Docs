@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b6bbb659feb0ad8",
+            "id": "feebe87fe6847787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/LearnProgramming/Properties and Methods.md",
+                "file": "API/Accesing firebase using postman.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9090b38c1cd098b",
+            "id": "c8b86f1ad60261df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/GIT Basic Commands.md",
+                "file": "Courses/LearnProgramming/Data Types/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7919795b026229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/LearnProgramming/Methods/Print and Console.log.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/GIT Basic Commands.md",
+                "file": "Courses/LearnProgramming/Data Types/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/GIT Basic Commands.md",
+                "file": "Courses/LearnProgramming/Data Types/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/GIT Basic Commands.md"
+                "file": "Courses/LearnProgramming/Data Types/Arrays.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,17 +172,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9090b38c1cd098b",
+  "active": "c8b86f1ad60261df",
   "lastOpenFiles": [
-    "GitHub/What is Git.md",
-    "Courses/LearnProgramming/Properties and Methods.md",
-    "Courses/LearnProgramming/Functions.md",
+    "Courses/LearnProgramming/Expressions and Statements.md",
+    "Courses/LearnProgramming/Data Types/Arrays.md",
+    "Courses/LearnProgramming/Operators.md",
+    "Courses/LearnProgramming/Methods/Print and Console.log.md",
+    "API/Accesing firebase using postman.md",
+    "API/Firebase with JavaScript.md",
+    "Ximg/Array-index-example01.webp",
+    "Architecture/Compiler vs Interpretor.md",
     "Courses/LearnProgramming/Data Types/Strings.md",
-    "Courses/LearnProgramming/Variables.md",
-    "Courses/LearnProgramming/Print and Console.log.md",
-    "Untitled.md",
-    "Markup & Data-Structuring Language/YAML.md",
-    "Markup & Data-Structuring Language/JSON.md",
-    "Markup & Data-Structuring Language/XML/Info.md"
+    "Courses/LearnProgramming/Data Types/Booleans.md",
+    "Ximg/operators-VS-operands.webp",
+    "Courses/LearnProgramming/Functions.md",
+    "Courses/LearnProgramming/Troubleshooting/Function Troubleshooting.md",
+    "Ximg/else-if01.webp",
+    "API",
+    "Courses/LearnProgramming/Properties and Methods.md",
+    "Courses/LearnProgramming/statements/IF - then (Else).md",
+    "Ximg/if-elseExample01.webp",
+    "GitHub/What is Git.md",
+    "TO DO.md",
+    "Courses/LearnProgramming/Data Types/Undefined.md",
+    "Courses/LearnProgramming/statements/Control Flow Statements.md"
   ]
 }

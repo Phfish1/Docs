@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool methods.md",
+                "file": "New Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b32d65c5b63df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOOLS/NetCat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cool methods.md",
+                "file": "Hacking Documentation/bWAPP ) SQL injections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cool methods.md",
+                "file": "Hacking Documentation/bWAPP ) SQL injections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cool methods.md"
+                "file": "Hacking Documentation/bWAPP ) SQL injections.md"
               }
             }
           }
@@ -183,17 +195,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcf27c92b1b1bd30",
+  "active": "80340e5cd0cd2ea1",
   "lastOpenFiles": [
+    "New Ideas.md",
+    "TOOLS/NetCat.md",
+    "TOOLS",
+    "Cool methods.md",
+    "Packet Manipulation/Tools.md",
+    "Layer 2/Yersinia.md",
     "Hacking Documentation/Protecting against BadUSB.md",
+    "Hacking Documentation/Demo.Testfire.net.md",
+    "Hacking Documentation/Decompiling .exe files made in python.md",
+    "Hacking Documentation/bWAPP ) SQL injections.md",
+    "Hacking/Tools/( Basics ).md",
+    "Hacking/Tools/Wifite {D}.md",
+    "Hacking/Tools/HashCat {D}.md",
+    "Hacking/Tools/AirCrack-NG {D}.md",
+    "TheFatRat.md",
     "TO DO.md",
     "Videos.md",
     "New Websites.md",
-    "Hacking Documentation/Decompiling .exe files made in python.md",
-    "Hacking Documentation/bWAPP ) SQL injections.md",
-    "Hacking Documentation/Demo.Testfire.net.md",
-    "Hacking Documentation/Bad Magic number.md",
-    "Packet Manipulation/Tools.md",
-    "TheFatRat.md"
+    "Hacking Documentation/Bad Magic number.md"
   ]
 }

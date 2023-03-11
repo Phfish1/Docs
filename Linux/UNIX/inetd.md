@@ -1,0 +1,1 @@
+Inetd is a **Internet Service Daemon** that provide internet services

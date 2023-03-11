@@ -25,13 +25,15 @@ then install the distro you want
 $ wsl --install ubuntu
 ```
 
-doint only `wsl --install` shows you your options
+doing only `wsl --install` shows you your options
 
 Then simply open PowerShell or CMD and type:
 
 ```
 $ wsl
 ```
+
+> Remember to update && upgrade ;)
 
 ___
 
@@ -101,6 +103,9 @@ WSL is often only CLI, but a GUI interface is possible in WSL 2
 
 - **Kali linux** RECOMENDED. Extended GUI acces using **Win-KeX** [Kali-Docs](https://www.kali.org/docs/wsl/win-kex)
 
+___
+___
+
 # More commands
 
 To stop wsl instance
@@ -116,13 +121,34 @@ $ wsl -l -v
 ```
 
 WSL update
+
 ```
 $ wsl --update
 ```
 
 If you have more than 1 wls instances use:
+
 ```
 $ wsl -d [DISTRO/NAME]
 ```
 
+To shutdown(Terminate) spesific wsl instances:
 
+``` bash
+$ wsl -t DISTRO
+```
+
+# Setting up multiple wsl instances
+
+The simplest way is to install another distribution using the `$ wsl --install DISTRO` command. 
+I installed `ubuntu` and `kali-linux`
+
+Then connecting to the them using `$ wsl -d [DISTRO/NAME]`
+
+>You might have to terminate "Restart" the distro. before its fully functional. Remember to update!
+
+To set a default wsl distro: "for when typing `$ wsl`"
+
+``` bash
+$ wsl -s DISTRO
+```

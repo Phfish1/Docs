@@ -22,5 +22,6 @@
   "shimmering-focus@@show-file-explorer-navigation": true,
   "shimmering-focus@@hide-attachment-folders": false,
   "shimmering-focus@@tab-width": 200,
-  "shimmering-focus@@file-line-width": 800
+  "shimmering-focus@@file-line-width": 800,
+  "shimmering-focus@@uncolored-italic": true
 }

@@ -1,6 +1,7 @@
 ### Properties
 
 A property is an already computed atribute. like eg: length of a string
+A property can also be an [[Expressions and Statements|Expression]]
 
 ``` js
 name = "Philip";
@@ -29,7 +30,7 @@ ___
 
 ### Comparison
 
-In object Oriented Programming (the most common) **OOP** We deal with **messages** and **objects**.
+In object Oriented Programming (the most common) **OOP**, We deal with **messages** and **objects**.
 - The object is the data
 - The message is what "starts" or triggers the object / data
 	( or else the data would just hang around doint nothing )

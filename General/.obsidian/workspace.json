@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ting jeg kan gjøre, hvis jeg vil.md",
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "692a06e8f3f0943d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sign-off - Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ting jeg kan gjøre, hvis jeg vil.md",
+                "file": "Sign-off - Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ting jeg kan gjøre, hvis jeg vil.md",
+                "file": "Sign-off - Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ting jeg kan gjøre, hvis jeg vil.md"
+                "file": "Sign-off - Documentation.md"
               }
             }
           }
@@ -195,12 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b60684715805368",
+  "active": "692a06e8f3f0943d",
   "lastOpenFiles": [
     "Ideer.md",
+    "Ting jeg kan gjøre, hvis jeg vil.md",
+    "Sign-off - Documentation.md",
     "Dashboard.md",
     "YouTube/General.md",
-    "Ting jeg kan gjøre, hvis jeg vil.md",
     "Tysk/Words i can in german.md",
     "Tysk/Gramatikk ;(.md",
     "Tysk/100 Words + Links.md",

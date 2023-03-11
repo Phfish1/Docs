@@ -26,13 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "KVM's/Running Linux under Windows.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c943b931245919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIX/inetd.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KVM's/Running Linux under Windows.md",
+                "file": "UNIX/inetd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KVM's/Running Linux under Windows.md",
+                "file": "UNIX/inetd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KVM's/Running Linux under Windows.md"
+                "file": "UNIX/inetd.md"
               }
             }
           }
@@ -159,12 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53d48ec040a08414",
+  "active": "1004dac4bf5eb175",
   "lastOpenFiles": [
-    "LINUX-Cheat-Sheet/Disk Managment.md",
-    "LINUX-Cheat-Sheet/SystemManagment.md",
-    "LINUX-Cheat-Sheet/Terminal_cmd.md",
     "KVM's/Running Linux under Windows.md",
+    "UNIX/inetd.md",
+    "UNIX",
+    "KVM's/VMs/VM optimizing.md",
+    "LINUX-Cheat-Sheet/SystemManagment.md",
+    "LINUX-Cheat-Sheet/Good to know.md",
+    "TO DO.md",
+    "LINUX-Cheat-Sheet/REMOVE THIS DIRECTORY SOME WAY/Chmod-X-Chown.md",
+    "LINUX-Cheat-Sheet/Get-Help.md",
+    "LINUX-Cheat-Sheet/Funs.md",
+    "LINUX-Cheat-Sheet/Disk Managment.md",
+    "LINUX-Cheat-Sheet/Files.md",
+    "LINUX-Cheat-Sheet/Terminal_cmd.md",
     "ximg/LinuxWSL-explorer.png",
     "LINUX-Cheat-Sheet/UserManagment.md",
     "Arch/Instalation Minimal ( 1 ) 22.11.2022.md",

@@ -10,3 +10,6 @@ $ neofetch
 $ cmatrix
 ```
 
+```
+$ sl
+```

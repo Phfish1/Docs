@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "027f335564db0495",
+        "id": "79a4b7ecb260d540",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b041bfb443363",
+            "id": "a0ce157811629994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerShell/Course/Video 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d98f0a5d9ccd1a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerShell/Some own scripts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowerShell/Some own scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowerShell/Some own scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PowerShell/Some own scripts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,13 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98f0a5d9ccd1a35",
+  "active": "a0ce157811629994",
   "lastOpenFiles": [
-    "PowerShell/Commands.md",
-    "PowerShell/Some own scripts.md",
+    "TroubleShooting Windows/Driver issues And GPU issuse.md",
+    "TroubleShooting Windows/directx diagnostic tool.md",
     "Study Reasurces.md",
-    "PowerShell/Course/README.md",
+    "ximg/GPU-Open-01.webp",
+    "ximg/GPU-Circuit-01.webp",
+    "ximg/DiscoLights-GPU-ThermalPaste-example01.webp",
+    "ximg/MSI-Afterburner-Overwatch2-Underclocking-Fix.webp",
+    "Untitled",
+    "TroubleShooting Windows",
+    "AD/Config.md",
+    "PowerShell/Commands.md",
+    "AD",
     "PowerShell/Course/Video 1.md",
-    "PowerShell/Course/Video 2.md"
+    "PowerShell/Course/README.md",
+    "Securing Windows/BadUSB protection.md",
+    "PowerShell/Course/Video 2.md",
+    "PowerShell/Some own scripts.md"
   ]
 }

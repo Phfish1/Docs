@@ -60,9 +60,15 @@ $ vim /etc/fstab
 $ ncdu
 ```
 
+df = Disk Free. ( Free storage )
+`-h` = Human readable
+
 ```
 $ df '/'
 ```
+
+du = Disk Usage
+`-h` = Human readable
 
 ```
 $ du '/'
