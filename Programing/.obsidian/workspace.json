@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "feebe87fe6847787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API/Accesing firebase using postman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8b86f1ad60261df",
+            "id": "3a7919795b026229",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a7919795b026229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/LearnProgramming/Methods/Print and Console.log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,29 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b86f1ad60261df",
+  "active": "3a7919795b026229",
   "lastOpenFiles": [
-    "Courses/LearnProgramming/Expressions and Statements.md",
-    "Courses/LearnProgramming/Data Types/Arrays.md",
-    "Courses/LearnProgramming/Operators.md",
+    "Courses/LearnProgramming/statements/IF - then (Else).md",
+    "Courses/LearnProgramming/statements/Control Flow Statements.md",
     "Courses/LearnProgramming/Methods/Print and Console.log.md",
+    "Courses/LearnProgramming/Data Types/Strings.md",
+    "Courses/LearnProgramming/Data Types/Undefined.md",
+    "Courses/LearnProgramming/Data Types/Booleans.md",
+    "Courses/LearnProgramming/Data Types/Arrays.md",
+    "Courses/LearnProgramming/Properties and Methods.md",
+    "Courses/LearnProgramming/Variables and Naming Conventions.md",
+    "Courses/LearnProgramming/Operators.md",
+    "Courses/LearnProgramming/Functions.md",
+    "Courses/LearnProgramming/Comments.md",
+    "Courses/LearnProgramming/Expressions and Statements.md",
+    "Courses/LearnProgramming/Troubleshooting/Function Troubleshooting.md",
     "API/Accesing firebase using postman.md",
+    "GitHub/GIT Basic Commands.md",
     "API/Firebase with JavaScript.md",
     "Ximg/Array-index-example01.webp",
     "Architecture/Compiler vs Interpretor.md",
-    "Courses/LearnProgramming/Data Types/Strings.md",
-    "Courses/LearnProgramming/Data Types/Booleans.md",
     "Ximg/operators-VS-operands.webp",
-    "Courses/LearnProgramming/Functions.md",
-    "Courses/LearnProgramming/Troubleshooting/Function Troubleshooting.md",
     "Ximg/else-if01.webp",
     "API",
-    "Courses/LearnProgramming/Properties and Methods.md",
-    "Courses/LearnProgramming/statements/IF - then (Else).md",
     "Ximg/if-elseExample01.webp",
     "GitHub/What is Git.md",
-    "TO DO.md",
-    "Courses/LearnProgramming/Data Types/Undefined.md",
-    "Courses/LearnProgramming/statements/Control Flow Statements.md"
+    "TO DO.md"
   ]
 }

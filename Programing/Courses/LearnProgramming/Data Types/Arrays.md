@@ -81,7 +81,7 @@ If you would try to access an index that does not exist. Like `4` or `89` you wo
 
 You always know what the first index is. it is `0`
 
-You can acces the **Last** index by finding the length of the list - 1. ( to account for indexes that start at 0 )
+You can acces the **Last** index by finding the [[Arrays#`1.4` Length of array|length]] of the list - 1. ( to account for indexes that start at 0 )
 
 ``` js
 let numbers = [10, 20, 30, 40, 50]
@@ -97,6 +97,66 @@ console.log(lastItem) // 50
 `lastItem` is an array item, and the index is an expression representing the length of the list `5` - 1 which is `4`. So its expressing `numbers[4]`. Redundant and Reliable
 
 >In some languages like python you can simply write `numbers[-1]` to get the last item
+
+___
+
+# `2` Changing arrays
+
+You can change an array by changing each individual item by accessing its index
+
+``` js
+let workers = [01, 02, 03, 04]
+workers[01] = 00
+
+console.log(workers) // [00, 02, 03, 04]
+```
+
+Or you can add new enteries, although there are better ->METHODS<- 
+Here i use `.length` (NOT RECOMENDED) use [[Arrays#`1.3.1` .push() method|.push()]] 
+
+``` js
+let favNumbers = [10, 20, 30, 40]
+favNumbers[4] = 50
+favNumbers[favNumber.length] = 99
+
+console.log(favNumbers) // [10, 20, 30, 40, 50, 99]
+```
+
+### `2.1` .push() method
+
+**.push()** is a [[Properties and Methods|method]] used for adding items at the **END** of an array.
+use this instead of `.length`
+
+``` js
+let familyMembers = ["Philip", "Mom"]
+familyMembers.push("Dad")
+
+console.log(familyMembers) // ["Philip", "Mom", "Dad"]
+```
+
+___
+
+Every method returns something. `.push()` returns the length of the array.
+
+``` js
+let numbers = [10, 20, 30, 40]
+
+console.log( numbers.push() ) // 4
+
+function addNumber(numbers) {
+	return numbers.push(10) // 4
+}
+```
+
+We can not return `numbers.push()` inside a function that would only give us the array length
+Do this instead:
+
+``` js
+function addNumbers(numbers) {
+	numbers.push(10)
+	return numbers
+}
+```
 
 
 
@@ -177,5 +237,48 @@ function getAverageAge(age1, age2, age3, age4) {
 
 result = getAverageAge(age1, age2, age3, age4)
 console.log(result)
+```
+
+### `1.3` Arrays with functions
+
+You can pass arrays through functions, "AMAZING". but be aware of how **return** arrays
+
+``` js
+let playerData = [999, "philip", true]
+```
+
+CORRECT:
+
+``` js
+function resetScore(score) {
+	score[0] = 0
+	return score // [o, "philip", true]
+}
+```
+
+WRONG: ( only returns the index `score[0]` which you set to 0 )
+
+``` js
+function resetScore(score) {
+	return score[0] = 0 // 0
+}
+```
+
+``` js
+playerData = resetScore(playerData) // Function call
+```
+
+### `1.4` Length of array
+
+Find the length of an array using the `.length` **[[Properties and Methods|property]]**
+
+``` js
+let numbers = [10,20,30,40,50]
+let answers = [true, false, false]
+let groceries = []
+
+numbers.length // 5
+answers.length // 3
+groceries.length // 0
 ```
 

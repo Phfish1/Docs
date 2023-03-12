@@ -10,14 +10,15 @@ name.length
 
 name.length = 6
 
-
 ### Methods
 
-Methods perform operations on your object. It is like a behaviour or instructions to perform tasks on your object
+Methods perform operations on your object. It is like a behaviour or instructions to perform tasks on your object.
+
+A [[Functions|function]] to call on spesific data structures
 
 ``` js
 name = "philip";
-name.toUpperCase();
+name.toUpperCase(); // PHILIP
 ```
 
 `.toUpperCase()` copies the string and makes it all UPPER case.
